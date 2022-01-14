@@ -1,0 +1,69 @@
+###############################################################
+# Comments start with "#"
+# Ignore all the comment lines
+# last_update: 2022-01-14
+# The file contains all the URL shortener websites
+# This file only contains the working ones,
+# so if a website goes down, we will remove it from the list.
+# Note: This list only contains domain names of the final shortened URL.
+# For example, bitly.com is a URL shortener website but the final
+# shortened URL is bit.ly/blahblah. Therefore, bit.ly is in the list
+# but bitly.com is not in the list.
+# start of the list:
+###############################################################
+0rz.tw
+1un.fr
+1url.cz
+shrunken.com
+p.asia
+g.asia
+3.ly
+0.gp
+2.ly
+4.gp
+4.ly
+6.ly
+7.ly
+8.ly
+9.ly
+2.gp
+6.gp
+5.gp
+ur3.us
+bitly.com
+2doc.net
+alturl.com
+2tu.us
+5z8.info
+link.ac
+a0.fr
+fumacrom.com
+adf.ly
+bc.vc
+bit.do
+bit.ly
+ko.gl
+wa.gl
+kr.pe
+asq.kr
+baro.lk
+me2.kr
+url.vet
+boa.la
+urls.kr
+linkdl.kr
+blap.net
+br4.in
+bzh.me
+cc.cc
+cutt.ly
+cutt.us
+dd.ma
+droid.ws
+forms.gle
+gg.gg
+hoy.kr
+href.li
+ow.ly
+ht.ly
+icit.fr
