@@ -1,7 +1,7 @@
 ###############################################################
 # Comments start with "#"
 # Ignore all the comment lines
-# last_update: 2022-01-14
+# last_update: 2022-01-15
 # The file contains all the URL shortener websites
 # This file only contains the working ones,
 # so if a website goes down, we will remove it from the list.
@@ -79,4 +79,10 @@ adr3.ir
 akoo.ir
 cuur.ir
 twlink.ir
-
+icks.ro
+is.gd
+ity.im
+fumacrom.com
+jdem.cz
+kutt.it
+lc.cx
