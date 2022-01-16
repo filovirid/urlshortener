@@ -1,7 +1,7 @@
 ###############################################################
 # Comments start with "#"
 # Ignore all the comment lines
-# last_update: 2022-01-15
+# last_update: 2022-01-16
 # The file contains all the URL shortener websites
 # This file only contains the working ones,
 # so if a website goes down, we will remove it from the list.
@@ -86,3 +86,6 @@ fumacrom.com
 jdem.cz
 kutt.it
 lc.cx
+lnk.sk
+oe.cd
+ppt.cc
