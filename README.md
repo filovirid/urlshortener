@@ -23,6 +23,16 @@ Here is the link to automatically fetch the names list:
 
 Here is an example in Python3 for getting the list of domain names: [fetch.py](./fetch.py)
 
+- test/test.py
+
+We run this file from time to time to filter out those domains in the list that already expired, or return NXDOMAIN.
+Use the following command to run it.
+
+```
+cd test
+python3 test.py ../names.txt | grep -v "NOERROR"
+```
+
 ## Contributions
 
 No pull requests. Just open an issue to add a new domain or remove a dead/parked one.
